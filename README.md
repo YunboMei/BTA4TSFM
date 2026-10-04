@@ -20,7 +20,3 @@ This work develops a Bayesian interpretation of attention that connects a conten
 ## Evaluation
 
 Experiments on ETTh1, ETTh2, ETTm1, ETTm2, and Weather show average MSE and MAE reductions of 3.4% and 3.0% over zero-shot Timer-XL, and 2.1% and 2.0% over full-shot Timer-XL, respectively, with a 7.2% increase in parameter count. These are average improvements across the evaluated settings.
-
-## Repository Status
-
-This repository currently provides an overview of the paper. Implementation code is not yet available.
